@@ -1,3 +1,3 @@
 # Material UI with Emotion
 
-Several Material UI demos
+This is an experiment using emotion's `css` method to style Material UI components.
